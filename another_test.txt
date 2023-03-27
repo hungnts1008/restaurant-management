@@ -1,0 +1,8 @@
+REG 1 PDH 1
+REG 15 DPC 99
+REGM LHT 1 13
+REG tritritri 100
+REG 3 trungtrungtrung 100
+REG duchainguyen 101
+REG haihaihai 101
+SQ 3

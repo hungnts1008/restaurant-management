@@ -1,0 +1,23 @@
+REG John 35
+REG 2 Nam 10
+REG Wick 35
+REG 2 Tuan 20
+REG 3 Eddie 45
+REG 7 Duck 34
+REG 5 Epsilon 47
+CLE 5
+PS 4
+CLE 3
+REG Joh 35
+REG 2 Na 10
+REG Wic 35
+REG 2 Tua 20
+CLE 5
+PQ 3
+REG 3 Eddi 45
+CLE 3
+REG 7 Duc 34
+PS 4
+REG 5 Epsilo 47
+REGM TOM 17 4
+SQ 5
